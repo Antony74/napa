@@ -36,7 +36,7 @@
     "npm-cache-filename": "^1.0.2",
     "npmlog": "^4.1.0",
     "rimraf": "^2.6.1",
-    "tar-pack": "^3.4.0",
+    "tar-fs": "^2.0.0",
     "write-json-file": "^2.2.0"
   },
   "devDependencies": {
